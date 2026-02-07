@@ -1,0 +1,9 @@
+{
+	"name": "sur-df-test01",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "79d77985-c2df-43e8-a516-827fbcf603a2",
+		"tenantId": "7273400f-5b2e-4651-86e4-60711d14ee65"
+	}
+}
